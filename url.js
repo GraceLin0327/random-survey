@@ -9,5 +9,4 @@
 
 const urls = [
 	'https://zh.surveymonkey.com/r/3M7LFJV',
-	'https://zh.surveymonkey.com/r/3M98R3S',
 ];
